@@ -1,3 +1,8 @@
 <?php 
-    echo "amita" 
+    echo "amita"
+    echo "petchprasert"
+
+    echo "mut"
+    echo "mahanakorn"
+    
 ?>
